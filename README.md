@@ -71,7 +71,7 @@ Identify users who spend a lot of money
 Push notification
 
 ![image](https://user-images.githubusercontent.com/91537767/220518174-f770c324-4da3-478f-bff7-4b2f6c29ce41.png)
-![image](https://user-images.githubusercontent.com/91537767/220518180-ea4e99ca-a9de-4d26-b7d9-5c1a2f3cf644.png)
+![image](https://user-images.githubusercontent.com/91537767/220518963-fc8806f5-4507-4395-9315-0f6ee146a048.png)
 
 - Level 11-30 has the low churn rate and contribute quite a lot to revenue.
 - Level 11-30 are the common users.
